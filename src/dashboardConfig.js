@@ -3,7 +3,11 @@ export default {
     {
       name: "gatsby",
       options: {
-        sites: [{ siteUrl: "https://preview-gatsbycloudgatsbymain.gtsb.io/" }],
+        sites: [
+          {
+            siteUrl: "https://preview-gatsbycloudtestingzxicuhwemain.gtsb.io/",
+          },
+        ],
       },
     },
   ],
